@@ -1,1 +1,4 @@
-"# E-commerce" 
+"# E-commerce"
+node js 
+express
+mongoose
